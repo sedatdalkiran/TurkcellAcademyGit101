@@ -1,6 +1,6 @@
 Ad Soyad: Sedat Dalkıran
 Okul/Bölüm: Uludağ Üniversitesi/Bilgisayar Mühendisliği
-Deneyim: Yazaki IT Intern Web Developer , Oyak Renault Project Intern(Web Developer)
+Deneyim: Yazaki IT Intern , Oyak Renault Project Intern(Web Developer)
 İl: Bursa
 Swift Tecrübesi: 6 ay
 Bildiği Yazılım Dilleri: Python, Java, SQL, PHP, HTML, .NET ... 
